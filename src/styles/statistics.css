@@ -1,0 +1,62 @@
+.rounded{
+    height:80px;
+    width: 80px;
+    border: 0.1px solid white;  
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+  }
+  
+  .rounded_bg{
+    height:40px;
+    width: 40px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #earning{
+    background-image: linear-gradient(40deg,white,#C3E9B1);
+    border-color: none  ;
+  }
+  
+  #orders{
+    background-image: linear-gradient(40deg,white,#B1D6E9);
+    border-color: none;
+  }
+  
+  #balance{
+    background-image: linear-gradient(40deg,white,#E2B1E9);
+    border-color: none;
+  }
+  #sales{
+    background-image: linear-gradient(40deg,white,#818DD1);
+    border-color: none;
+  }
+
+  .card{
+    height: 120px;
+    width: 250px;
+    background-color: white;
+    margin: 20px;
+    margin-right:10px;
+    margin-top:20px;
+    padding: 10px;
+    min-width: 227px;
+    border-radius: 10px;
+  }
+
+  .card_img{
+    padding-top: 10px;
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  .card_content{
+    padding-top: 5px;
+    display: inline-block;
+  }
+
+  .arrow{
+    height:12px;
+    width: 12px;
+  }
